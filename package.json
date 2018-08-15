@@ -1,0 +1,26 @@
+{
+  "name": "fs_wd_assignment_18.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kschutter/FS_WD_Assignment_18.1.git"
+  },
+  "keywords": [
+    "test",
+    "assignment",
+    "18.1",
+    "npm",
+    "nodejs"
+  ],
+  "author": "kschutter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kschutter/FS_WD_Assignment_18.1/issues"
+  },
+  "homepage": "https://github.com/kschutter/FS_WD_Assignment_18.1#readme"
+}
